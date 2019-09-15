@@ -1,0 +1,17 @@
+[Unlock FPS(Citra)]
+1088E584 00001A49
+1088E586 0000EEF0
+{remove 30fps cap, wont improve perfomance}
+
+[Transmog upgrade]
+*citra_enabled
+00AE2F0C E3A00001
+00AE2F24 E3A00001
+00AE2F3C E3A00001
+00AE2F54 E3A00001
+00AE2F6C E3A00001
+00AE2F84 E3A00001
+00AE2F9C E3A00001
+00AE2FB4 E3A00001
+{remove gunner/blademaster transmog restriction}
+

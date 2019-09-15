@@ -1,0 +1,94 @@
+[   0.017602] Config <Info> core/settings.cpp:LogSettings:73: Citra Configuration:
+[   0.017645] Config <Info> core/settings.cpp:LogSetting:69: Core_UseCpuJit: true
+[   0.017669] Config <Info> core/settings.cpp:LogSetting:69: Renderer_UseGLES: false
+[   0.017695] Config <Info> core/settings.cpp:LogSetting:69: Renderer_UseHwRenderer: true
+[   0.017717] Config <Info> core/settings.cpp:LogSetting:69: Renderer_UseHwShader: true
+[   0.017739] Config <Info> core/settings.cpp:LogSetting:69: Renderer_ShadersAccurateMul: false
+[   0.017761] Config <Info> core/settings.cpp:LogSetting:69: Renderer_UseShaderJit: true
+[   0.017784] Config <Info> core/settings.cpp:LogSetting:69: Renderer_UseResolutionFactor: 2
+[   0.017829] Config <Info> core/settings.cpp:LogSetting:69: Renderer_VsyncEnabled: false
+[   0.017863] Config <Info> core/settings.cpp:LogSetting:69: Renderer_UseFrameLimit: true
+[   0.017895] Config <Info> core/settings.cpp:LogSetting:69: Renderer_FrameLimit: 100
+[   0.017920] Config <Info> core/settings.cpp:LogSetting:69: Renderer_PostProcessingShader: none (builtin)
+[   0.017944] Config <Info> core/settings.cpp:LogSetting:69: Renderer_FilterMode: true
+[   0.017972] Config <Info> core/settings.cpp:LogSetting:69: Stereoscopy_Render3d: 0
+[   0.017995] Config <Info> core/settings.cpp:LogSetting:69: Stereoscopy_Factor3d: 1
+[   0.018020] Config <Info> core/settings.cpp:LogSetting:69: Layout_LayoutOption: 3
+[   0.018044] Config <Info> core/settings.cpp:LogSetting:69: Layout_SwapScreen: false
+[   0.018068] Config <Info> core/settings.cpp:LogSetting:69: Utility_DumpTextures: false
+[   0.018092] Config <Info> core/settings.cpp:LogSetting:69: Utility_CustomTextures: false
+[   0.018117] Config <Info> core/settings.cpp:LogSetting:69: Audio_EnableDspLle: false
+[   0.018141] Config <Info> core/settings.cpp:LogSetting:69: Audio_EnableDspLleMultithread: false
+[   0.018165] Config <Info> core/settings.cpp:LogSetting:69: Audio_OutputEngine: auto
+[   0.018189] Config <Info> core/settings.cpp:LogSetting:69: Audio_EnableAudioStretching: true
+[   0.018213] Config <Info> core/settings.cpp:LogSetting:69: Audio_OutputDevice: auto
+[   0.018238] Config <Info> core/settings.cpp:LogSetting:69: Audio_InputDeviceType: 0
+[   0.018262] Config <Info> core/settings.cpp:LogSetting:69: Audio_InputDevice: Default
+[   0.018286] Config <Info> core/settings.cpp:LogSetting:69: Camera_OuterRightName: blank
+[   0.018309] Config <Info> core/settings.cpp:LogSetting:69: Camera_OuterRightConfig: 
+[   0.018333] Config <Info> core/settings.cpp:LogSetting:69: Camera_OuterRightFlip: 0
+[   0.018357] Config <Info> core/settings.cpp:LogSetting:69: Camera_InnerName: qt
+[   0.018381] Config <Info> core/settings.cpp:LogSetting:69: Camera_InnerConfig: @device:pnp:\\?\usb#vid_04f2&pid_b2fa&mi_00#7&689f450&0&0000#{65e8773d-8f56-11d0-a3b9-00a0c9223196}\global
+[   0.018405] Config <Info> core/settings.cpp:LogSetting:69: Camera_InnerFlip: 0
+[   0.018427] Config <Info> core/settings.cpp:LogSetting:69: Camera_OuterLeftName: blank
+[   0.018451] Config <Info> core/settings.cpp:LogSetting:69: Camera_OuterLeftConfig: 
+[   0.018474] Config <Info> core/settings.cpp:LogSetting:69: Camera_OuterLeftFlip: 0
+[   0.018498] Config <Info> core/settings.cpp:LogSetting:69: DataStorage_UseVirtualSd: true
+[   0.018521] Config <Info> core/settings.cpp:LogSetting:69: System_IsNew3ds: false
+[   0.018546] Config <Info> core/settings.cpp:LogSetting:69: System_RegionValue: -1
+[   0.018565] Config <Info> core/settings.cpp:LogSetting:69: Debugging_UseGdbstub: false
+[   0.018585] Config <Info> core/settings.cpp:LogSetting:69: Debugging_GdbstubPort: 24689
+[   0.369562] Input <Info> input_common/udp/client.cpp:StartCommunication:199: Starting communication with UDP input server on 127.0.0.1:26760
+[   1.597878] Frontend <Info> citra_qt/main.cpp:GMainWindow:170: Citra Version: Canary 1462  | HEAD-4eb7814
+[   1.646319] Frontend <Info> citra_qt/main.cpp:CheckForUpdates:665: Update check started
+[   1.730593] Service.FS <Info> core/file_sys/ncch_container.cpp:Load:174: Loading NCCH from file E:/Games/ROM/Detective Pikachu (All) (C1) Decrypted.3ds
+[   1.730885] Service.FS <Info> core/file_sys/ncch_container.cpp:Load:174: Loading NCCH from file E:/Games/ROM/Detective Pikachu (All) (C1) Decrypted.3ds
+[   1.730929] Service.FS <Info> core/file_sys/ncch_container.cpp:Load:174: Loading NCCH from file E:/Games/ROM/Detective Pikachu (All) (C1) Decrypted.3ds
+[   1.767896] Service.FS <Info> core/file_sys/ncch_container.cpp:Load:174: Loading NCCH from file E:/Games/ROM/Legend of Zelda, The - Ocarina of Time 3D (Europe) Multi5 (Rev 1) Decrypted.3ds
+[   1.768409] Service.FS <Info> core/file_sys/ncch_container.cpp:Load:174: Loading NCCH from file C:\Users\AGULA\AppData\Roaming/Citra/nand/00000000000000000000000000000000/title/00040138/00000003/content/00000000.app
+[   1.769338] Service.FS <Error> core/file_sys/ncch_container.cpp:Load:237: Secure1 KeyX missing
+[   1.769551] Service.FS <Warning> core/file_sys/ncch_container.cpp:Load:338: NCCH is marked as encrypted but with decrypted exheader. Force no crypto scheme.
+[   1.770029] Service.FS <Info> core/file_sys/ncch_container.cpp:Load:174: Loading NCCH from file E:/Games/ROM/Legend of Zelda, The - Ocarina of Time 3D (Europe) Multi5 (Rev 1) Decrypted.3ds
+[   1.770167] Service.FS <Info> core/file_sys/ncch_container.cpp:Load:174: Loading NCCH from file E:/Games/ROM/Legend of Zelda, The - Ocarina of Time 3D (Europe) Multi5 (Rev 1) Decrypted.3ds
+[   1.802218] Service.FS <Info> core/file_sys/ncch_container.cpp:Load:174: Loading NCCH from file E:/Games/ROM/Monster Hunter 4 Ultimate (EUR) Decrypted.3ds
+[   1.802479] Service.FS <Error> core/file_sys/ncch_container.cpp:Load:237: Secure1 KeyX missing
+[   1.802566] Service.FS <Error> core/file_sys/ncch_container.cpp:Load:251: Secure2 KeyX missing
+[   1.802769] Service.FS <Warning> core/file_sys/ncch_container.cpp:Load:338: NCCH is marked as encrypted but with decrypted exheader. Force no crypto scheme.
+[   1.803186] Service.FS <Info> core/file_sys/ncch_container.cpp:Load:174: Loading NCCH from file E:/Games/ROM/Monster Hunter 4 Ultimate (EUR) Decrypted.3ds
+[   1.803309] Service.FS <Info> core/file_sys/ncch_container.cpp:Load:174: Loading NCCH from file E:/Games/ROM/Monster Hunter 4 Ultimate (EUR) Decrypted.3ds
+[   1.825919] Service.FS <Info> core/file_sys/ncch_container.cpp:Load:174: Loading NCCH from file C:\Users\AGULA\AppData\Roaming/Citra/sdmc/Nintendo 3DS/00000000000000000000000000000000/00000000000000000000000000000000/title/0004000e/00126100/content/00000000.app
+[   1.848007] Service.FS <Info> core/file_sys/ncch_container.cpp:Load:174: Loading NCCH from file E:/Games/ROM/Monster Hunter XX - Double Cross (English Patched v4) Decrypted.3ds
+[   1.848305] Service.FS <Info> core/file_sys/ncch_container.cpp:Load:174: Loading NCCH from file E:/Games/ROM/Monster Hunter XX - Double Cross (English Patched v4) Decrypted.3ds
+[   1.848350] Service.FS <Info> core/file_sys/ncch_container.cpp:Load:174: Loading NCCH from file E:/Games/ROM/Monster Hunter XX - Double Cross (English Patched v4) Decrypted.3ds
+[   1.869065] Service.FS <Info> core/file_sys/ncch_container.cpp:Load:174: Loading NCCH from file C:\Users\AGULA\AppData\Roaming/Citra/sdmc/Nintendo 3DS/00000000000000000000000000000000/00000000000000000000000000000000/title/0004000e/00197100/content/00000000.app
+[   1.915070] Service.FS <Info> core/file_sys/ncch_container.cpp:Load:174: Loading NCCH from file E:/Games/ROM/Pokemon Ultra Sun (EUR) (Retail) MULTi8 Decrypted.3ds
+[   1.915478] Service.FS <Info> core/file_sys/ncch_container.cpp:Load:174: Loading NCCH from file E:/Games/ROM/Pokemon Ultra Sun (EUR) (Retail) MULTi8 Decrypted.3ds
+[   1.915647] Service.FS <Info> core/file_sys/ncch_container.cpp:Load:174: Loading NCCH from file E:/Games/ROM/Pokemon Ultra Sun (EUR) (Retail) MULTi8 Decrypted.3ds
+[   1.949442] Service.FS <Info> core/file_sys/ncch_container.cpp:Load:174: Loading NCCH from file E:/Games/ROM/Pokemon Y-USA-Decrypted.3ds
+[   1.949620] Service.FS <Error> core/file_sys/ncch_container.cpp:Load:237: Secure1 KeyX missing
+[   1.949715] Service.FS <Warning> core/file_sys/ncch_container.cpp:Load:338: NCCH is marked as encrypted but with decrypted exheader. Force no crypto scheme.
+[   1.950198] Service.FS <Info> core/file_sys/ncch_container.cpp:Load:174: Loading NCCH from file E:/Games/ROM/Pokemon Y-USA-Decrypted.3ds
+[   1.950303] Service.FS <Info> core/file_sys/ncch_container.cpp:Load:174: Loading NCCH from file E:/Games/ROM/Pokemon Y-USA-Decrypted.3ds
+[   1.973777] Service.FS <Info> core/file_sys/ncch_container.cpp:Load:174: Loading NCCH from file C:\Users\AGULA\AppData\Roaming/Citra/sdmc/Nintendo 3DS/00000000000000000000000000000000/00000000000000000000000000000000/title/0004000e/00055e00/content/00000004.app
+[   2.064272] Service.FS <Info> core/file_sys/ncch_container.cpp:Load:174: Loading NCCH from file E:/Games/ROM/Professor Layton and the Azran Legacy (UNDUB) Decrypted.3ds
+[   2.064698] Service.FS <Info> core/file_sys/ncch_container.cpp:Load:174: Loading NCCH from file E:/Games/ROM/Professor Layton and the Azran Legacy (UNDUB) Decrypted.3ds
+[   2.064768] Service.FS <Info> core/file_sys/ncch_container.cpp:Load:174: Loading NCCH from file E:/Games/ROM/Professor Layton and the Azran Legacy (UNDUB) Decrypted.3ds
+[   2.086702] Service.FS <Info> core/file_sys/ncch_container.cpp:Load:174: Loading NCCH from file E:/Games/ROM/The Legend of Zelda - A Link Between Worlds-Europe-Multi5 Decrypted.3ds
+[   2.086784] Service.FS <Error> core/file_sys/ncch_container.cpp:Load:237: Secure1 KeyX missing
+[   2.086846] Service.FS <Warning> core/file_sys/ncch_container.cpp:Load:338: NCCH is marked as encrypted but with decrypted exheader. Force no crypto scheme.
+[   2.087218] Service.FS <Info> core/file_sys/ncch_container.cpp:Load:174: Loading NCCH from file E:/Games/ROM/The Legend of Zelda - A Link Between Worlds-Europe-Multi5 Decrypted.3ds
+[   2.087284] Service.FS <Info> core/file_sys/ncch_container.cpp:Load:174: Loading NCCH from file E:/Games/ROM/The Legend of Zelda - A Link Between Worlds-Europe-Multi5 Decrypted.3ds
+[   2.106679] Service.FS <Info> core/file_sys/ncch_container.cpp:Load:174: Loading NCCH from file E:/Games/ROM/The Legend of Zelda Majoras Mask 3D (Europe) Multi5 Decrypted.3ds
+[   2.106756] Service.FS <Error> core/file_sys/ncch_container.cpp:Load:237: Secure1 KeyX missing
+[   2.106811] Service.FS <Error> core/file_sys/ncch_container.cpp:Load:251: Secure2 KeyX missing
+[   2.106896] Service.FS <Warning> core/file_sys/ncch_container.cpp:Load:338: NCCH is marked as encrypted but with decrypted exheader. Force no crypto scheme.
+[   2.107315] Service.FS <Info> core/file_sys/ncch_container.cpp:Load:174: Loading NCCH from file E:/Games/ROM/The Legend of Zelda Majoras Mask 3D (Europe) Multi5 Decrypted.3ds
+[   2.107381] Service.FS <Info> core/file_sys/ncch_container.cpp:Load:174: Loading NCCH from file E:/Games/ROM/The Legend of Zelda Majoras Mask 3D (Europe) Multi5 Decrypted.3ds
+[   2.135342] Service.FS <Info> core/file_sys/ncch_container.cpp:Load:174: Loading NCCH from file E:/Games/ROM/Yo-Kai Watch 2 Psychic Specters (UNDUB) Decrypted.3ds
+[   2.136584] Service.FS <Info> core/file_sys/ncch_container.cpp:Load:174: Loading NCCH from file E:/Games/ROM/Yo-Kai Watch 2 Psychic Specters (UNDUB) Decrypted.3ds
+[   2.136659] Service.FS <Info> core/file_sys/ncch_container.cpp:Load:174: Loading NCCH from file E:/Games/ROM/Yo-Kai Watch 2 Psychic Specters (UNDUB) Decrypted.3ds
+[   2.186315] Service.FS <Info> core/file_sys/ncch_container.cpp:Load:174: Loading NCCH from file E:/Games/ROM/Yo-kai Watch 3 English (EUR) Decrypted.3ds
+[   2.186606] Service.FS <Info> core/file_sys/ncch_container.cpp:Load:174: Loading NCCH from file E:/Games/ROM/Yo-kai Watch 3 English (EUR) Decrypted.3ds
+[   2.186651] Service.FS <Info> core/file_sys/ncch_container.cpp:Load:174: Loading NCCH from file E:/Games/ROM/Yo-kai Watch 3 English (EUR) Decrypted.3ds
+[  14.211490] Frontend <Info> citra_qt/main.cpp:OnGameListOpenFolder:1069: Opening Save Data path for data_id=00040000001c1e00
+[  17.658654] Frontend <Info> citra_qt/main.cpp:OnUpdateFound:695: Update found!
